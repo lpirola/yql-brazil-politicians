@@ -57,35 +57,18 @@ foreach ($cargos as $id_cargo => $cargo) {
 
 foreach ($actv_url as $link) {
   $xml = file_get_contents($link[0]);
+  //echo $link[0]."\n";
   $arr = xml2array($xml);
   $arr['response']['cargo'] = array();
-  $arr['response']['cargo'] = array_pad($arr['response']['cargo'], count($arr['response'])+1, $link[2]);
-  $politicos[] = $arr['response'];
+  $arr['response']['cargo'] = array_pad($arr['response']['cargo'], count($arr['response']['sqCand']), $link[2]);
   $pol = $arr['response'];
-  for($i=0; $i<count($pol);$i++) {
-    $sql = "
-    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
-    VALUES ( 
-      ".cleanUp($pol['sqCand'][$i]).", 
-      '".cleanUp($pol['sgUe'][$i])."', 
-      '".cleanUp($pol['name'][$i])."', 
-      '".cleanUp($pol['name_urna'][$i])."', 
-      '".cleanUp($pol['numero'][$i])."', 
-      '".cleanUp($pol['situacao'][$i])."', 
-      '".cleanUp($pol['partido'][$i])."', 
-      '".cleanUp($pol['coligacao'][$i])."', 
-      '".cleanUp($pol['cargo'][$i])."'
-    );
-    ";
+  for($i=0; $i<count($pol['sqCand']);$i++) {
+    $sql = "INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo) VALUES (".cleanUp($pol['sqCand'][$i]).", '".cleanUp($pol['sgUe'][$i])."', '".cleanUp($pol['name'][$i])."', '".cleanUp($pol['name_urna'][$i])."', '".cleanUp($pol['numero'][$i])."', '".cleanUp($pol['situacao'][$i])."', '".cleanUp($pol['partido'][$i])."', '".cleanUp($pol['coligacao'][$i])."', '".cleanUp($pol['cargo'][$i])."');";
     //echo $sql;
     if (!$mysqli->query($sql)) {
-        printf("SQL: %s\n", $sql);
+        printf("URL - SQL: %s\n", $link[0]." - ".$sql);
     }
+    
   }
-  
 }
-
-
-
-
 ?>
