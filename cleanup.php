@@ -1,5 +1,6 @@
 <?php
 function cleanUp($txt) {
-  return trim($txt);
+  global $mysqli;
+  return $mysqli->real_escape_string(trim($txt));
 }
 ?>
