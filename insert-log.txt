@@ -1,0 +1,6132 @@
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '3'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '4'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      70000000053, 
+      'DF', 
+      'FRANCISCO CLAUDIO CORREA MEYER SANT'ANNA', 
+      'CHICO SANT'ANNA', 
+      '501', 
+      'Deferido', 
+      'PSOL', 
+      '-', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '5'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      80000000135, 
+      'ES', 
+      'ABEL SANT'ANNA JUNIOR', 
+      'ABEL SANT'ANNA', 
+      '4343', 
+      'Deferido', 
+      'PV', 
+      'FRENTE POPULAR CAPIXABA', 
+      '6'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '7'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '7'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '7'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '7'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '7'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '7'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '7'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '7'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '7'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      ., 
+      '.', 
+      '', 
+      '.', 
+      '.', 
+      '.', 
+      '.', 
+      '-', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'C', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'n', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'i', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'd', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      'a', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      't', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '8'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '9'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '9'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '9'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '9'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '9'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '9'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '9'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '9'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '9'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '9'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '9'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '9'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '9'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '9'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '9'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '9'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '9'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '9'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '10'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '10'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '10'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '10'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '10'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '10'
+    );
+    
+SQL: 
+    INSERT INTO politicos (sqCand,sgUe,name,name_urna,numero,situacao,partido,coligacao,cargo)
+    VALUES ( 
+      , 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '', 
+      '10'
+    );
+    
