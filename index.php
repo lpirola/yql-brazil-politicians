@@ -54,11 +54,27 @@ foreach ($cargos as $id_cargo => $cargo) {
     }
   }
 }
+$mysqli->query("set names 'utf8'");
 
 foreach ($actv_url as $link) {
-  $xml = file_get_contents($link[0]);
+  // create curl resource
+  $ch = curl_init();
+
+  // set url
+  curl_setopt($ch, CURLOPT_URL, $link[0]);
+
+  //return the transfer as a string
+  curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+
+  // $output contains the output string
+  $xml = curl_exec($ch);
+
+  // close curl resource to free up system resources
+  curl_close($ch);
+  
   //echo $link[0]."\n";
   $arr = xml2array($xml);
+
   $arr['response']['cargo'] = array();
   $arr['response']['cargo'] = array_pad($arr['response']['cargo'], count($arr['response']['sqCand']), $link[2]);
   $pol = $arr['response'];
@@ -68,7 +84,6 @@ foreach ($actv_url as $link) {
     if (!$mysqli->query($sql)) {
         printf("URL - SQL: %s\n", $link[0]." - ".$sql);
     }
-    
   }
 }
 ?>
